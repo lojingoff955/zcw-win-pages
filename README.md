@@ -1,2 +1,14 @@
 # zcw-win-pages
-HTML page archive and documentation
+
+自动生成页面存放处
+
+这里收集多个独立页面，方便在同一个仓库中管理。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
